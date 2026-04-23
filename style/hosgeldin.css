@@ -1,0 +1,261 @@
+body{background-color: #b809c4;}
+   
+    
+   
+       
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+   
+   .KAYDOL {
+    background-color:rgb(255, 255, 255);
+    color: #b809c4;
+    border: 2px solid black;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    position: absolute;
+    left: 1300px;
+    height: 46px;
+    font-weight: bolder;
+    font-family: "Poetsen One", sans-serif;
+    font-size: 15px;
+    text-align: center;
+    width: 150px;
+    top: 1px;
+}
+    .KAYDOL:hover{
+       background-color: #b809c4;
+       color: #ffffff;
+       border-color: #ffffff;
+       
+       transition-duration: 0.8s;
+       
+
+
+
+      }
+  .OTURUM-AÇ{
+    background-color:rgb(255, 255, 255);
+    color:  #b809c4;
+    border: 2px solid black;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    position: absolute;
+    left: 1100px;
+    height: 46px;
+    font-weight: bolder;
+    font-family: "Poetsen One", sans-serif;
+    font-size: 15px;
+    text-align: center;
+    width: 150px;
+    top: 1px;
+  } 
+  .OTURUM-AÇ:hover{
+    background-color: #b809c4;
+    color: #ffffff;
+    border-color: #ffffff;
+    
+    transition-duration: 0.8s;
+
+         
+
+   }
+
+
+     
+  
+   .nav-link-dropdown-toggle{
+
+   background-color: aquamarine;
+
+
+   }
+ .nav-link {
+
+  color: #b809c4;
+     
+ }
+ .nav-link:hover  {
+
+  color: black
+  
+     
+ }
+
+
+
+
+
+
+      .container-fluid{
+     background-color: #ffffff;
+     height: 75px;
+
+
+
+  }
+  /* CAROUSEL  */
+  
+   
+
+
+
+
+
+   
+  .carousel-inner{
+    top: 300px;
+     height: 900px;
+      width: 1200px;
+
+    
+     left: 400px;
+     position:absolute;
+      margin-left: 0px;
+     padding: 0px;
+     
+      
+
+     
+  }
+
+   
+
+
+   
+   .carousel-item{
+
+       object-fit:cover;
+       height: 700px;
+       width: 900px;
+       
+
+   }
+    
+  .carousel-control-prev{
+    background-color: black;
+    height: 95px;
+    border-radius: 200px;
+    left: 200px;
+    top: 450px;
+    width:50px ;
+  } 
+  .carousel-control-next{
+
+    background-color: black;
+    height: 95px;
+    border-radius: 200px;
+    right: 200px;
+    top: 450px;
+    width:50px ;
+
+ }
+       .carousel-caption{
+               
+        font-weight: bolder;
+        font-family: "Poetsen One", sans-serif;
+        
+
+
+
+
+       }
+
+    .sendemy{
+
+            color: #ffffff;
+            font-weight: bolder;
+            font-family: "Poetsen One", sans-serif;
+            font-size: 100px;
+            text-align: center;
+   }   
+            
+
+  
+   .poetsen-one-regular {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+    /* KARTLAR  */
+   
+    .card{
+
+     margin-left: 0px;
+     margin-top: 0px;
+     top: 1700px;
+     left: 150px;
+     position: absolute;
+     height: 250px;
+     
+   }
+     
+   
+   
+
+     
+       
+   .sepeteekle{
+
+    height: 20px;
+    width: 20px;
+    align-items: center;
+   }
+   .card-img-top{
+     height: 250px;
+     width: 300px;
+     
+     
+
+   }
+   
+    .kategori{
+          
+       background-color: #ffffff;
+       height: 1000px;
+       width: 1713px;
+       top:800px;
+       left: 200px;
+       position: absolute;
+
+
+    } 
+    .footer{
+        background-color:black;
+        height: 150px;
+        width: 1905px;
+        position:absolute;
+        top:3000px;
+        text-align: center;
+        color: #ffffff;
+font-weight: lighter;
+font-family: "Poetsen One", sans-serif;
+font-size: 50px;
+text-align: center;
+}
+ .cikis{
+    color:white;
+    border: 2px solid black;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: black;
+ }
